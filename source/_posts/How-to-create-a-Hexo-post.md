@@ -47,4 +47,8 @@ git push
 ```
 npm install hexo-deployer-git --save
 ```
-to deploy and commit to git at the same time. However, this will commit to `https://github.com/yuchaozh/yuchaozh.github.io` project, not the `hexo-blog` project
+```
+hexo clean && hexo deploy 
+```
+you have to use `clean && deploy` together. `hexo deploy` is not working anymore.
+to deploy and commit to git at the same time. However, this will commit to `https://github.com/yuchaozh/yuchaozh.github.io` project, not the `hexo-blog` project. So you still need to commit to `hexo-blog` afater use the above command.
