@@ -6,10 +6,10 @@
 title: Yuchao's Blog
 subtitle: Yuchao's Blog Subtitle
 description: Yuchao's Blog Description
-keywords:
+keywords: Software Engineer
 author: Yuchao Zhou
-language:
-timezone:
+language: English, Chinese
+timezone: 
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
