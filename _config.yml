@@ -83,3 +83,8 @@ deploy:
   branch: master
   message:
     
+# Gitment
+gitment_owner: yuchaozh
+gitment_repo: yuchaozh.github.io
+gitment_oauth_id: 2c6ef88166658a8f3751
+gitment_oauth_secret: 582c8aea2a8453bf10b73ba0925a30bb90558a77
