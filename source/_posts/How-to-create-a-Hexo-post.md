@@ -6,10 +6,9 @@ tags: Hexo
 
 ## Overview
 This is my personal blog. It consists from three git repositories.  
-My customized theme 
-[my-vevx](https://github.com/yuchaozh/my-vexo) which is based on [hexo-theme-vexo](https://github.com/yanm1ng/hexo-theme-vexo). It is a [git submodule](https://gist.github.com/gitaarik/8735255) of [hexo-blog](https://github.com/yuchaozh/hexo-blog).  
-[hexo-blog](https://github.com/yuchaozh/hexo-blog) contains the hexo and blogs.  
-[yuchaozh.github.io](https://github.com/yuchaozh/yuchaozh.github.io) is the repo to host the blog at `http://yuchaozh.github.io`
+1. My customized theme [my-vevx](https://github.com/yuchaozh/my-vexo) which is based on [hexo-theme-vexo](https://github.com/yanm1ng/hexo-theme-vexo). It is a [git submodule](https://gist.github.com/gitaarik/8735255) of [hexo-blog](https://github.com/yuchaozh/hexo-blog).  
+2. [hexo-blog](https://github.com/yuchaozh/hexo-blog) contains the hexo and blogs.  
+3. [yuchaozh.github.io](https://github.com/yuchaozh/yuchaozh.github.io) is the repo to host the blog at `http://yuchaozh.github.io`
 
 
 ### Clone the hexo-blog project to local
