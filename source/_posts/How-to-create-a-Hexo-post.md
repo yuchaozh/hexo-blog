@@ -4,6 +4,10 @@ date: 2019-03-01 15:30:50
 tags: Hexo  
 ---
 
+### Clone the hexo-blog project to local
+```
+git clone https://github.com/yuchaozh/hexo-blog.git
+```
 
 ### Install Hexo
 ```
@@ -39,9 +43,8 @@ git commit -m ""
 git push
 ```
 
-
 ### Or Use hexo-deployer-git
 ```
 npm install hexo-deployer-git --save
 ```
-to deploy and commit to git at the same time
+to deploy and commit to git at the same time. However, this will commit to `https://github.com/yuchaozh/yuchaozh.github.io` project, not the `hexo-blog` project
