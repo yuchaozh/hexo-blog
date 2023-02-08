@@ -11,7 +11,7 @@ Hello I am Yuchao Zhou. Currently I am a Software Engineer @ Microsoft in Great 
 
 
 ## Work Experience
-*Microsoft - SDE II
+* Microsoft - SDE II
 * Microsoft - SDE
 * Microsoft - SDE (via Artech)
 * AWS - SDE
