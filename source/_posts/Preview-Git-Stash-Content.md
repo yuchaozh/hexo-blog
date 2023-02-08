@@ -23,7 +23,7 @@ git stash show -p stash@{i}
 git stash show -p stash@{i} --name-only
 ```
 
-### Stach untracked new files
+### Stash untracked new files
 By default, `git stash` only stash tracked files. It will not stash new created files which are untracked.
 ```
 git stash --include-untracked
@@ -34,6 +34,22 @@ git stash --all
 ```
 it will stash all files, including untracked and ignored files.
 
+### List all stashed changes
+```
+git stash list
+```
+
+### Clear all local stashed changes
+```
+git stash clear
+```
+
+### Delete one specific stashed change
+```
+git stash drop stash@{index}
+```
+
 More Information:   
+https://stackoverflow.com/questions/11369375/how-can-i-delete-all-of-my-git-stashes-at-once
 [See what's in a stash without applying it](https://stackoverflow.com/questions/10725729/see-whats-in-a-stash-without-applying-it)  
 [How do you stash an untracked file?](https://stackoverflow.com/questions/835501/how-do-you-stash-an-untracked-file)
