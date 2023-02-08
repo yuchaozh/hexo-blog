@@ -21,6 +21,11 @@ git clone https://github.com/yuchaozh/hexo-blog.git
 npm install -g hexo-cli
 ```
 
+### Pull the theme sub-module
+```
+git submodule update --init
+```
+
 ### Init Hexo
 go to the blog folder. e.g. `C:\Users\v-yuczh\Documents\GitHub\hexo-blog`
 ```
